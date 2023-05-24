@@ -155,11 +155,6 @@ const cn = {
       Check: "重新检查",
       NoAccess: "输入🔑密钥后可查看额度",
     },
-    AccessCode: {
-      Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
-      Placeholder: "请输入访问密码",
-    },
     Model: "模型 (model)",
     Temperature: {
       Title: "随机性 (temperature)",
