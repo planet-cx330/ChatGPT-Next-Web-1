@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "使用前请前往 https://uai.ee/ 阅读文档",
+      "🔑使用前请先设置密钥",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
