@@ -156,7 +156,7 @@ const cn = {
       NoAccess: "输入🔑密钥后可查看额度",
     },
     AccessCode: {
-      Title: "无访问密码",
+      Title: "密钥购买VX：Muaooocx330",
       SubTitle: " ",
       Placeholder: "这里无需输入",
     },
