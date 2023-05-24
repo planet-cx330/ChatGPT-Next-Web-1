@@ -325,7 +325,7 @@ export function ImagePreviewer(props: {
           <div>
             <div className={styles["main-title"]}>UAI.EE</div>
             <div className={styles["sub-title"]}>
-              github.com/Yidadaa/ChatGPT-Next-Web
+              大学生AI助手微信：Muaooocx330
             </div>
             <div className={styles["icons"]}>
               <Avatar avatar={config.avatar}></Avatar>
