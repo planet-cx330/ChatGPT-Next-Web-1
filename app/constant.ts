@@ -1,5 +1,5 @@
-export const OWNER = "lxh";
-export const REPO = "Web";
+export const OWNER = "ai";
+export const REPO = "wechat";
 export const REPO_URL = `https://uai.ee/${OWNER}/${REPO}`;
 export const ISSUE_URL = `https://uai.ee/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
