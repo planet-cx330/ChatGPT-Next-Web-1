@@ -156,8 +156,8 @@ const cn = {
       NoAccess: "输入🔑密钥后可查看额度",
     },
     AccessCode: {
-      Title: "密钥购买VX：Muaooocx330",
-      SubTitle: " ",
+      Title: "密钥平台https://api.uai.ee",
+      SubTitle: "或联系微信Muaooocx330",
       Placeholder: "这里无需输入",
     },
     Model: "模型 (model)",
