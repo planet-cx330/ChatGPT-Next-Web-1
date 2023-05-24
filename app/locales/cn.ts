@@ -143,7 +143,7 @@ const cn = {
     Token: {
       Title: "🔑密钥",
       SubTitle: "使用UAI.EE令牌",
-      Placeholder: "请输入",
+      Placeholder: "请输入你的密钥",
     },
 
     Usage: {
@@ -157,8 +157,8 @@ const cn = {
     },
     AccessCode: {
       Title: "无访问密码",
-      SubTitle: "请在下面输入你的密钥",
-      Placeholder: "无需输入",
+      SubTitle: " ",
+      Placeholder: "这里无需输入",
     },
     Model: "模型 (model)",
     Temperature: {
