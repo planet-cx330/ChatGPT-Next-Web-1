@@ -115,7 +115,7 @@ function Screen() {
         ` ${
           config.tightBorder && !isMobileScreen
             ? styles["tight-container"]
-            : styles.container
+            : styles["tight-container"]
         }`
       }
     >
